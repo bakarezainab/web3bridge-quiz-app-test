@@ -35,7 +35,7 @@ function submitAnswers(){
     }
     
     // Set Correct Answers Using an Array
-    var answers = ["b","a","d","b","d"]; //6. set correct answers in an array named 'answers'/increment correct answer by one (score++) if user gets an answer right.
+    var answers = ["b","a","c","b","c","b","a","c","b","c","b","a","c","b","c"]; //6. set correct answers in an array named 'answers'/increment correct answer by one (score++) if user gets an answer right.
     
     //Check Answers
     for (i = 1; i <= total; i++) { //7. copy same loop reiteration loop from above and 'i-1' so the array starts at 0
