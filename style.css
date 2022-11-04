@@ -1,5 +1,5 @@
 body{
-    background: crimson;
+    background: red;
     color: white;
     font-family: Arial, sans-serif;
     font-size: 14px;
@@ -7,7 +7,7 @@ body{
   
   #container{
     width: 60%;
-    background: #189FDB;
+    background: black;
     margin: 20px auto;
     overflow: auto;
     padding: 25px;
@@ -38,7 +38,7 @@ body{
   }
   
   input[type='submit']{
-    background: #f06226;
+    background: red;
     border: 0;
     color: #fff;
     padding: 10px 15px;
@@ -46,7 +46,7 @@ body{
   }
   
   #results h3{
-    background: #f06226;
+    background: red;
     padding: 10px;
     margin: 10px 0;
   }
